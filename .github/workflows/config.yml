@@ -4,7 +4,7 @@ on:
     branches:
       - master
       - jerk
-    workflow-dispatch:
+  workflow-dispatch:
 
   jobs:
     my_first_job:
